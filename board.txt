@@ -1,0 +1,6 @@
+# before compile event
+#This command takes the input.html and turns it into output.cpp following the template in template.txt, see files for how.
+
+#recipe.hooks.sketch.prebuild.NUMBER.pattern ="o:\newcode\evapcooler\Html2CString.exe" o:\newcode\8266\TempSend\index.html o:\newcode\8266\TempSend\output.cpp o:\newcode\8266\TempSend\template.txt
+
+
